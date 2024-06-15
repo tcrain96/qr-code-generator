@@ -1,10 +1,11 @@
 import './App.css'
-import Link from './Link/Link'
+import Generator from './Generator'
+
 function App() {
 
   return (
     <>
-     <Link/>
+     <Generator/>
     </>
   )
 }

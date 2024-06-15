@@ -1,0 +1,37 @@
+.container{
+    display:flex;
+    text-align:center;
+    justify-content:space-around;
+    margin:100px;
+    background-color:#292D3E;
+    padding:100px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+
+.link{
+    background-color:white;
+    padding:100px 150px;
+    border-radius:10px;
+}
+
+.button{
+    border:none;
+    text-decoration: none;
+    background:#4661d8;
+    padding:20px;
+    margin:10px;
+    color: white;
+    font-size:16px;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+.input{
+    height:50px;
+    width:500px;
+    font-size: 16px;
+}
