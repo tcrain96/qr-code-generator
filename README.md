@@ -24,8 +24,6 @@ If you have any problems, please contact me at my email: [tristan.crain@outlook.
 
 ## Authors
 
-Contributors names and contact info
-
 Tristan Crain
 [@TristanCrain](https://www.linkedin.com/in/tristancrain/)
 
